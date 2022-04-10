@@ -541,7 +541,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
     private void DataActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_DataActionPerformed
         // TODO add your handling code here:
-        String filePath= "/Users/dreshaj/Downloads/java 2/Netbeensjui/Librat.txt";
+        String filePath= "/Users/dreshaj/Downloads/Projekt2:java/Netbeensjui/Librat.txt";
         File file = new File(filePath);
         
         try
